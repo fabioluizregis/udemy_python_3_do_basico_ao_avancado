@@ -1,7 +1,8 @@
-# udemy_python_3_do_basico_ao_avancado
+# Udemy: Python 3 do Básico ao Avançado
 
-Python 3+ completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação
+Este repositório contém materiais, projetos e exercícios do curso **Python 3+ Completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, Algoritmos e Programação**.
 
-link do curso: udemy.com/course/python-3-do-zero-ao-avancado
-professor: Luiz Otávio Miranda
-carga horária: 141.5 horas
+## Informações do Curso
+- **Link do Curso**: [Udemy - Python 3 do Zero ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado)
+- **Professor**: Luiz Otávio Miranda
+- **Carga Horária**: 141.5 horas

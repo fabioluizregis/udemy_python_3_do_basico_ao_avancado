@@ -1,4 +1,4 @@
-# Precedência entre os operadores aritméticos
+# Precedência entre os operadores aritméticos.
 
 #  1. (n + n)
 # 2. **
